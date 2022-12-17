@@ -1,0 +1,21 @@
+{
+  "code": "200000",
+  "data": [
+    {
+      "id": "612ad262d5ef640006487d62",
+      "currency": "ETH",
+      "type": "main",
+      "balance": "1.04804634",
+      "available": "0.04804634",
+      "holds": "1"
+    },
+    {
+      "id": "612adb2359cf8a0006258663",
+      "currency": "ETH",
+      "type": "trade",
+      "balance": "0",
+      "available": "0",
+      "holds": "0"
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+[17/12/2022 10:45:45 AM] Prod run = True--------starting instance for RUNE --------
+[17/12/2022 10:45:46 AM] Available balance 0.20008847RUNE
+[17/12/2022 10:45:46 AM] 0.20008847 RUNE available, precision 0.1
+[17/12/2022 10:45:47 AM] order number 639d113b76b4c50001391e31 placed RUNE 0.1
+[17/12/2022 10:45:48 AM] order number 639d113c91dac80001691b7e placed RUNE 0.1
+[17/12/2022 10:45:48 AM] Prod run = True--------starting instance for ETH --------
+[17/12/2022 10:45:49 AM] order 639d000991dac800016597e3 not deleted already at lowest rate 0.00006
+[17/12/2022 10:45:49 AM] order 639cffb81fcae5000115c938 not deleted already at lowest rate 0.00006
+[17/12/2022 10:45:49 AM] order 639cfcc091dac8000164b8f6 not deleted already at lowest rate 0.00006
+[17/12/2022 10:45:49 AM] order 639cfbc879f5480001f467b0 not deleted already at lowest rate 0.00006
+[17/12/2022 10:45:49 AM] order 639cf51176b4c50001336418 not deleted already at lowest rate 0.00006
+[17/12/2022 10:45:49 AM] order 639ceb94ed8db500014b661d not deleted already at lowest rate 0.00006
+[17/12/2022 10:45:49 AM] order 639ce9bbed8db500014afa24 not deleted already at lowest rate 0.00006
+[17/12/2022 10:45:50 AM] Available balance 0.04804634ETH
+[17/12/2022 10:45:50 AM] not enough ETH,  0.04804634 available, minimum required 0.05
+[17/12/2022 10:45:50 AM] Prod run = True--------starting instance for MATIC --------
+[17/12/2022 10:45:52 AM] Available balance 1.52383784MATIC
+[17/12/2022 10:45:52 AM] 1.52383784 MATIC available, precision 1
+[17/12/2022 10:45:52 AM] order number 639d11401fcae500011bd582 placed MATIC 1
+[17/12/2022 10:45:52 AM] Prod run = True--------starting instance for BTC --------
+[17/12/2022 10:45:53 AM] Available balance 0.00279376BTC
+[17/12/2022 10:45:53 AM] 0.00279376 BTC available, precision 0.001
+[17/12/2022 10:45:53 AM] order number 639d1142ed8db5000155d78f placed BTC 0.001
+[17/12/2022 10:45:54 AM] order number 639d1142e2d3a7000121a291 placed BTC 0.001
+[17/12/2022 10:45:54 AM] Prod run = True--------starting instance for ADA --------
+[17/12/2022 10:45:55 AM] Available balance 338.69465883ADA
+[17/12/2022 10:45:55 AM] 338.69465883 ADA available, precision 10
+[17/12/2022 10:45:56 AM] order number 639d11441fcae500011bd623 placed ADA 110
+[17/12/2022 10:45:57 AM] order number 639d1145ed8db5000155d7ff placed ADA 110
+[17/12/2022 10:45:58 AM] order number 639d1146ed8db5000155d812 placed ADA 110
+[17/12/2022 10:45:58 AM] Prod run = True--------starting instance for AVAX --------
+[17/12/2022 10:46:00 AM] Available balance 0.44336767AVAX
+[17/12/2022 10:46:00 AM] 0.44336767 AVAX available, precision 0.1
+[17/12/2022 10:46:00 AM] order number 639d1148ed8db5000155d965 placed AVAX 0.1
+[17/12/2022 10:46:00 AM] order number 639d1149e2d3a7000121bf0a placed AVAX 0.1
+[17/12/2022 10:46:01 AM] order number 639d1149ed8db5000155daaa placed AVAX 0.1
+[17/12/2022 10:46:01 AM] Prod run = True--------starting instance for USDT --------
+[17/12/2022 10:46:02 AM] Available balance 0.92546189USDT
+[17/12/2022 10:46:02 AM] not enough USDT,  0.92546189 available, minimum required 10
+[17/12/2022 10:49:22 AM] Prod run = True--------starting instance for RUNE --------
+[17/12/2022 10:49:23 AM] Available balance 0.00008847RUNE
+[17/12/2022 10:49:23 AM] not enough RUNE,  8.847E-05 available, minimum required 0.1
+[17/12/2022 10:49:23 AM] Prod run = True--------starting instance for ETH --------
+[17/12/2022 10:49:23 AM] order 639d000991dac800016597e3 not deleted already at lowest rate 0.00006
+[17/12/2022 10:49:23 AM] order 639cffb81fcae5000115c938 not deleted already at lowest rate 0.00006
+[17/12/2022 10:49:23 AM] order 639cfcc091dac8000164b8f6 not deleted already at lowest rate 0.00006
+[17/12/2022 10:49:23 AM] order 639cfbc879f5480001f467b0 not deleted already at lowest rate 0.00006
+[17/12/2022 10:49:23 AM] order 639cf51176b4c50001336418 not deleted already at lowest rate 0.00006
+[17/12/2022 10:49:23 AM] order 639ceb94ed8db500014b661d not deleted already at lowest rate 0.00006
+[17/12/2022 10:49:23 AM] order 639ce9bbed8db500014afa24 not deleted already at lowest rate 0.00006
+[17/12/2022 10:49:24 AM] Available balance 0.04804634ETH
+[17/12/2022 10:49:24 AM] not enough ETH,  0.04804634 available, minimum required 0.05
+[17/12/2022 10:49:24 AM] Prod run = True--------starting instance for MATIC --------
+[17/12/2022 10:49:25 AM] Available balance 0.52383784MATIC
+[17/12/2022 10:49:25 AM] not enough MATIC,  0.52383784 available, minimum required 1
+[17/12/2022 10:49:25 AM] Prod run = True--------starting instance for BTC --------
+[17/12/2022 10:49:27 AM] Available balance 0.00079376BTC
+[17/12/2022 10:49:27 AM] not enough BTC,  0.00079376 available, minimum required 0.001
+[17/12/2022 10:49:27 AM] Prod run = True--------starting instance for ADA --------
+[17/12/2022 10:49:29 AM] Available balance 8.69465883ADA
+[17/12/2022 10:49:29 AM] not enough ADA,  8.69465883 available, minimum required 10
+[17/12/2022 10:49:29 AM] Prod run = True--------starting instance for AVAX --------
+[17/12/2022 10:49:31 AM] Available balance 0.14336767AVAX
+[17/12/2022 10:49:31 AM] 0.14336767 AVAX available, precision 0.1
+[17/12/2022 10:49:31 AM] order number 639d121be2d3a7000122038a placed AVAX 0.1
+[17/12/2022 10:49:31 AM] Prod run = True--------starting instance for USDT --------
+[17/12/2022 10:49:32 AM] Available balance 0.92546189USDT
+[17/12/2022 10:49:32 AM] not enough USDT,  0.92546189 available, minimum required 10

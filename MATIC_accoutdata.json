@@ -1,0 +1,21 @@
+{
+  "code": "200000",
+  "data": [
+    {
+      "id": "6190743f36a0d70001218b6c",
+      "currency": "MATIC",
+      "type": "main",
+      "balance": "406.52383784",
+      "available": "0.52383784",
+      "holds": "406"
+    },
+    {
+      "id": "6190740d4b6b1e0001737646",
+      "currency": "MATIC",
+      "type": "trade",
+      "balance": "0.0000307",
+      "available": "0.0000307",
+      "holds": "0"
+    }
+  ]
+}

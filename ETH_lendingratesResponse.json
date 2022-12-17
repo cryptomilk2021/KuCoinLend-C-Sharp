@@ -1,0 +1,360 @@
+{
+  "code": "200000",
+  "data": [
+    {
+      "dailyIntRate": "0.00006",
+      "term": 7,
+      "size": "65.99"
+    },
+    {
+      "dailyIntRate": "0.00007",
+      "term": 7,
+      "size": "365.89"
+    },
+    {
+      "dailyIntRate": "0.00008",
+      "term": 7,
+      "size": "0.12"
+    },
+    {
+      "dailyIntRate": "0.00009",
+      "term": 7,
+      "size": "57.38"
+    },
+    {
+      "dailyIntRate": "0.0001",
+      "term": 7,
+      "size": "352.04"
+    },
+    {
+      "dailyIntRate": "0.00011",
+      "term": 7,
+      "size": "34.55"
+    },
+    {
+      "dailyIntRate": "0.00012",
+      "term": 7,
+      "size": "15.07"
+    },
+    {
+      "dailyIntRate": "0.00013",
+      "term": 7,
+      "size": "1.44"
+    },
+    {
+      "dailyIntRate": "0.00014",
+      "term": 7,
+      "size": "48.44"
+    },
+    {
+      "dailyIntRate": "0.00015",
+      "term": 7,
+      "size": "4.1"
+    },
+    {
+      "dailyIntRate": "0.00017",
+      "term": 7,
+      "size": "22.9"
+    },
+    {
+      "dailyIntRate": "0.00018",
+      "term": 7,
+      "size": "33.12"
+    },
+    {
+      "dailyIntRate": "0.00019",
+      "term": 7,
+      "size": "27.07"
+    },
+    {
+      "dailyIntRate": "0.0002",
+      "term": 7,
+      "size": "277.92"
+    },
+    {
+      "dailyIntRate": "0.00021",
+      "term": 7,
+      "size": "1.57"
+    },
+    {
+      "dailyIntRate": "0.00022",
+      "term": 7,
+      "size": "68.05"
+    },
+    {
+      "dailyIntRate": "0.00023",
+      "term": 7,
+      "size": "54.27"
+    },
+    {
+      "dailyIntRate": "0.00024",
+      "term": 7,
+      "size": "2.03"
+    },
+    {
+      "dailyIntRate": "0.00025",
+      "term": 7,
+      "size": "4.58"
+    },
+    {
+      "dailyIntRate": "0.00026",
+      "term": 7,
+      "size": "3.87"
+    },
+    {
+      "dailyIntRate": "0.00027",
+      "term": 7,
+      "size": "1.89"
+    },
+    {
+      "dailyIntRate": "0.00028",
+      "term": 7,
+      "size": "19.35"
+    },
+    {
+      "dailyIntRate": "0.00029",
+      "term": 7,
+      "size": "6.87"
+    },
+    {
+      "dailyIntRate": "0.0003",
+      "term": 7,
+      "size": "36.54"
+    },
+    {
+      "dailyIntRate": "0.00031",
+      "term": 7,
+      "size": "49.39"
+    },
+    {
+      "dailyIntRate": "0.00032",
+      "term": 7,
+      "size": "10.95"
+    },
+    {
+      "dailyIntRate": "0.00033",
+      "term": 7,
+      "size": "9.55"
+    },
+    {
+      "dailyIntRate": "0.00034",
+      "term": 7,
+      "size": "30.8"
+    },
+    {
+      "dailyIntRate": "0.00035",
+      "term": 7,
+      "size": "1.57"
+    },
+    {
+      "dailyIntRate": "0.00036",
+      "term": 7,
+      "size": "57.85"
+    },
+    {
+      "dailyIntRate": "0.00037",
+      "term": 7,
+      "size": "1.02"
+    },
+    {
+      "dailyIntRate": "0.00038",
+      "term": 7,
+      "size": "0.38"
+    },
+    {
+      "dailyIntRate": "0.00039",
+      "term": 7,
+      "size": "3.64"
+    },
+    {
+      "dailyIntRate": "0.0004",
+      "term": 7,
+      "size": "28.85"
+    },
+    {
+      "dailyIntRate": "0.00042",
+      "term": 7,
+      "size": "2.3"
+    },
+    {
+      "dailyIntRate": "0.00045",
+      "term": 7,
+      "size": "17.32"
+    },
+    {
+      "dailyIntRate": "0.00046",
+      "term": 7,
+      "size": "6.41"
+    },
+    {
+      "dailyIntRate": "0.00047",
+      "term": 7,
+      "size": "9.77"
+    },
+    {
+      "dailyIntRate": "0.0005",
+      "term": 7,
+      "size": "72.3"
+    },
+    {
+      "dailyIntRate": "0.00053",
+      "term": 7,
+      "size": "0.55"
+    },
+    {
+      "dailyIntRate": "0.00054",
+      "term": 7,
+      "size": "0.23"
+    },
+    {
+      "dailyIntRate": "0.00055",
+      "term": 7,
+      "size": "34.16"
+    },
+    {
+      "dailyIntRate": "0.00057",
+      "term": 7,
+      "size": "0.26"
+    },
+    {
+      "dailyIntRate": "0.00058",
+      "term": 7,
+      "size": "0.15"
+    },
+    {
+      "dailyIntRate": "0.00059",
+      "term": 7,
+      "size": "0.1"
+    },
+    {
+      "dailyIntRate": "0.0006",
+      "term": 7,
+      "size": "36.66"
+    },
+    {
+      "dailyIntRate": "0.00065",
+      "term": 7,
+      "size": "0.21"
+    },
+    {
+      "dailyIntRate": "0.00067",
+      "term": 7,
+      "size": "1.28"
+    },
+    {
+      "dailyIntRate": "0.00068",
+      "term": 7,
+      "size": "2.39"
+    },
+    {
+      "dailyIntRate": "0.00069",
+      "term": 7,
+      "size": "27.89"
+    },
+    {
+      "dailyIntRate": "0.0007",
+      "term": 7,
+      "size": "11.73"
+    },
+    {
+      "dailyIntRate": "0.00071",
+      "term": 7,
+      "size": "0.37"
+    },
+    {
+      "dailyIntRate": "0.00072",
+      "term": 7,
+      "size": "0.06"
+    },
+    {
+      "dailyIntRate": "0.00073",
+      "term": 7,
+      "size": "7.28"
+    },
+    {
+      "dailyIntRate": "0.00074",
+      "term": 7,
+      "size": "0.06"
+    },
+    {
+      "dailyIntRate": "0.00075",
+      "term": 7,
+      "size": "2.89"
+    },
+    {
+      "dailyIntRate": "0.00077",
+      "term": 7,
+      "size": "5.19"
+    },
+    {
+      "dailyIntRate": "0.00078",
+      "term": 7,
+      "size": "0.2"
+    },
+    {
+      "dailyIntRate": "0.00079",
+      "term": 7,
+      "size": "4.34"
+    },
+    {
+      "dailyIntRate": "0.0008",
+      "term": 7,
+      "size": "46.14"
+    },
+    {
+      "dailyIntRate": "0.00081",
+      "term": 7,
+      "size": "2.08"
+    },
+    {
+      "dailyIntRate": "0.00082",
+      "term": 7,
+      "size": "13.75"
+    },
+    {
+      "dailyIntRate": "0.00083",
+      "term": 7,
+      "size": "20.71"
+    },
+    {
+      "dailyIntRate": "0.00084",
+      "term": 7,
+      "size": "22.36"
+    },
+    {
+      "dailyIntRate": "0.00085",
+      "term": 7,
+      "size": "68.11"
+    },
+    {
+      "dailyIntRate": "0.00086",
+      "term": 7,
+      "size": "14.1"
+    },
+    {
+      "dailyIntRate": "0.00087",
+      "term": 7,
+      "size": "23.16"
+    },
+    {
+      "dailyIntRate": "0.00088",
+      "term": 7,
+      "size": "36.68"
+    },
+    {
+      "dailyIntRate": "0.00089",
+      "term": 7,
+      "size": "0.48"
+    },
+    {
+      "dailyIntRate": "0.0009",
+      "term": 7,
+      "size": "364.14"
+    },
+    {
+      "dailyIntRate": "0.00098",
+      "term": 7,
+      "size": "263.99"
+    }
+  ]
+}

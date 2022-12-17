@@ -1,0 +1,435 @@
+{
+  "code": "200000",
+  "data": [
+    {
+      "dailyIntRate": "0.00012",
+      "term": 7,
+      "size": "283773"
+    },
+    {
+      "dailyIntRate": "0.00013",
+      "term": 7,
+      "size": "8199"
+    },
+    {
+      "dailyIntRate": "0.00014",
+      "term": 7,
+      "size": "11101"
+    },
+    {
+      "dailyIntRate": "0.00015",
+      "term": 7,
+      "size": "1659"
+    },
+    {
+      "dailyIntRate": "0.00016",
+      "term": 7,
+      "size": "170"
+    },
+    {
+      "dailyIntRate": "0.00017",
+      "term": 7,
+      "size": "34174"
+    },
+    {
+      "dailyIntRate": "0.00018",
+      "term": 7,
+      "size": "95728"
+    },
+    {
+      "dailyIntRate": "0.00019",
+      "term": 7,
+      "size": "116684"
+    },
+    {
+      "dailyIntRate": "0.0002",
+      "term": 7,
+      "size": "1008315"
+    },
+    {
+      "dailyIntRate": "0.00021",
+      "term": 7,
+      "size": "75076"
+    },
+    {
+      "dailyIntRate": "0.00022",
+      "term": 7,
+      "size": "30921"
+    },
+    {
+      "dailyIntRate": "0.00023",
+      "term": 7,
+      "size": "14698"
+    },
+    {
+      "dailyIntRate": "0.00024",
+      "term": 7,
+      "size": "99788"
+    },
+    {
+      "dailyIntRate": "0.00025",
+      "term": 7,
+      "size": "140618"
+    },
+    {
+      "dailyIntRate": "0.00026",
+      "term": 7,
+      "size": "6764"
+    },
+    {
+      "dailyIntRate": "0.00027",
+      "term": 7,
+      "size": "1318454"
+    },
+    {
+      "dailyIntRate": "0.00028",
+      "term": 7,
+      "size": "11716"
+    },
+    {
+      "dailyIntRate": "0.00029",
+      "term": 7,
+      "size": "612"
+    },
+    {
+      "dailyIntRate": "0.0003",
+      "term": 7,
+      "size": "70228"
+    },
+    {
+      "dailyIntRate": "0.00031",
+      "term": 7,
+      "size": "5653"
+    },
+    {
+      "dailyIntRate": "0.00032",
+      "term": 7,
+      "size": "3384"
+    },
+    {
+      "dailyIntRate": "0.00033",
+      "term": 7,
+      "size": "28326"
+    },
+    {
+      "dailyIntRate": "0.00034",
+      "term": 7,
+      "size": "902"
+    },
+    {
+      "dailyIntRate": "0.00035",
+      "term": 7,
+      "size": "4252"
+    },
+    {
+      "dailyIntRate": "0.00036",
+      "term": 7,
+      "size": "2777"
+    },
+    {
+      "dailyIntRate": "0.00037",
+      "term": 7,
+      "size": "503"
+    },
+    {
+      "dailyIntRate": "0.00038",
+      "term": 7,
+      "size": "2438"
+    },
+    {
+      "dailyIntRate": "0.00039",
+      "term": 7,
+      "size": "12365"
+    },
+    {
+      "dailyIntRate": "0.0004",
+      "term": 7,
+      "size": "70957"
+    },
+    {
+      "dailyIntRate": "0.00041",
+      "term": 7,
+      "size": "5177"
+    },
+    {
+      "dailyIntRate": "0.00042",
+      "term": 7,
+      "size": "14097"
+    },
+    {
+      "dailyIntRate": "0.00043",
+      "term": 7,
+      "size": "2738"
+    },
+    {
+      "dailyIntRate": "0.00044",
+      "term": 7,
+      "size": "1925"
+    },
+    {
+      "dailyIntRate": "0.00045",
+      "term": 7,
+      "size": "16588"
+    },
+    {
+      "dailyIntRate": "0.00046",
+      "term": 7,
+      "size": "16238"
+    },
+    {
+      "dailyIntRate": "0.00047",
+      "term": 7,
+      "size": "673"
+    },
+    {
+      "dailyIntRate": "0.00048",
+      "term": 7,
+      "size": "337"
+    },
+    {
+      "dailyIntRate": "0.00049",
+      "term": 7,
+      "size": "8065"
+    },
+    {
+      "dailyIntRate": "0.0005",
+      "term": 7,
+      "size": "293953"
+    },
+    {
+      "dailyIntRate": "0.00051",
+      "term": 7,
+      "size": "1226"
+    },
+    {
+      "dailyIntRate": "0.00052",
+      "term": 7,
+      "size": "17821"
+    },
+    {
+      "dailyIntRate": "0.00053",
+      "term": 7,
+      "size": "6766"
+    },
+    {
+      "dailyIntRate": "0.00054",
+      "term": 7,
+      "size": "2530"
+    },
+    {
+      "dailyIntRate": "0.00055",
+      "term": 7,
+      "size": "57375"
+    },
+    {
+      "dailyIntRate": "0.00056",
+      "term": 7,
+      "size": "4549"
+    },
+    {
+      "dailyIntRate": "0.00057",
+      "term": 7,
+      "size": "4706"
+    },
+    {
+      "dailyIntRate": "0.00058",
+      "term": 7,
+      "size": "3525"
+    },
+    {
+      "dailyIntRate": "0.00059",
+      "term": 7,
+      "size": "4686"
+    },
+    {
+      "dailyIntRate": "0.0006",
+      "term": 7,
+      "size": "57453"
+    },
+    {
+      "dailyIntRate": "0.00061",
+      "term": 7,
+      "size": "2329"
+    },
+    {
+      "dailyIntRate": "0.00062",
+      "term": 7,
+      "size": "5127"
+    },
+    {
+      "dailyIntRate": "0.00063",
+      "term": 7,
+      "size": "1169"
+    },
+    {
+      "dailyIntRate": "0.00064",
+      "term": 7,
+      "size": "3564"
+    },
+    {
+      "dailyIntRate": "0.00065",
+      "term": 7,
+      "size": "9556"
+    },
+    {
+      "dailyIntRate": "0.00066",
+      "term": 7,
+      "size": "12167"
+    },
+    {
+      "dailyIntRate": "0.00067",
+      "term": 7,
+      "size": "2488"
+    },
+    {
+      "dailyIntRate": "0.00068",
+      "term": 7,
+      "size": "2067"
+    },
+    {
+      "dailyIntRate": "0.00069",
+      "term": 7,
+      "size": "4828"
+    },
+    {
+      "dailyIntRate": "0.0007",
+      "term": 7,
+      "size": "48494"
+    },
+    {
+      "dailyIntRate": "0.00071",
+      "term": 7,
+      "size": "182"
+    },
+    {
+      "dailyIntRate": "0.00072",
+      "term": 7,
+      "size": "7127"
+    },
+    {
+      "dailyIntRate": "0.00073",
+      "term": 7,
+      "size": "1164"
+    },
+    {
+      "dailyIntRate": "0.00074",
+      "term": 7,
+      "size": "13657"
+    },
+    {
+      "dailyIntRate": "0.00075",
+      "term": 7,
+      "size": "4193"
+    },
+    {
+      "dailyIntRate": "0.00076",
+      "term": 7,
+      "size": "3556"
+    },
+    {
+      "dailyIntRate": "0.00077",
+      "term": 7,
+      "size": "1746"
+    },
+    {
+      "dailyIntRate": "0.00078",
+      "term": 7,
+      "size": "591"
+    },
+    {
+      "dailyIntRate": "0.00079",
+      "term": 7,
+      "size": "712"
+    },
+    {
+      "dailyIntRate": "0.0008",
+      "term": 7,
+      "size": "45969"
+    },
+    {
+      "dailyIntRate": "0.00081",
+      "term": 7,
+      "size": "3938"
+    },
+    {
+      "dailyIntRate": "0.00082",
+      "term": 7,
+      "size": "591"
+    },
+    {
+      "dailyIntRate": "0.00083",
+      "term": 7,
+      "size": "1285"
+    },
+    {
+      "dailyIntRate": "0.00084",
+      "term": 7,
+      "size": "972"
+    },
+    {
+      "dailyIntRate": "0.00085",
+      "term": 7,
+      "size": "5601"
+    },
+    {
+      "dailyIntRate": "0.00086",
+      "term": 7,
+      "size": "126"
+    },
+    {
+      "dailyIntRate": "0.00087",
+      "term": 7,
+      "size": "1238"
+    },
+    {
+      "dailyIntRate": "0.00088",
+      "term": 7,
+      "size": "4278"
+    },
+    {
+      "dailyIntRate": "0.00089",
+      "term": 7,
+      "size": "2798"
+    },
+    {
+      "dailyIntRate": "0.0009",
+      "term": 7,
+      "size": "453261"
+    },
+    {
+      "dailyIntRate": "0.00091",
+      "term": 7,
+      "size": "110"
+    },
+    {
+      "dailyIntRate": "0.00092",
+      "term": 7,
+      "size": "97"
+    },
+    {
+      "dailyIntRate": "0.00093",
+      "term": 7,
+      "size": "25"
+    },
+    {
+      "dailyIntRate": "0.00094",
+      "term": 7,
+      "size": "292"
+    },
+    {
+      "dailyIntRate": "0.00095",
+      "term": 7,
+      "size": "5869"
+    },
+    {
+      "dailyIntRate": "0.00096",
+      "term": 7,
+      "size": "356"
+    },
+    {
+      "dailyIntRate": "0.00098",
+      "term": 7,
+      "size": "104"
+    }
+  ]
+}
